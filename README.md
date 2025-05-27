@@ -62,7 +62,7 @@
 ## 🌐 Conecte-se comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://www.linkedin.com/in/vinicius-pimenta-dev/"/>
+  <a href="https://www.linkedin.com/in/vinicius-pimenta-dev/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   
 </div>
