@@ -64,11 +64,5 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
     <img src="https://www.linkedin.com/in/vinicius-pimenta-dev/"/>
-  </a>
-  <a href="https://wa.me/seunumerodetelefone" target="_blank">
-    <img src=""/>
-  </a>
-  <a href="https://instagram.com/seuinstagram" target="_blank">
-    <img src=""/>
-  </a>
+  
 </div>
