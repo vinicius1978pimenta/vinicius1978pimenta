@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
 - 💻 Trabalho e estudo nas áreas de desenvolvimento!
 - 🧠 Sempre aprendendo novas tecnologias e boas práticas
 - ⚡ Curiosidade: Adoro desafios técnicos e transformar ideias em soluções
