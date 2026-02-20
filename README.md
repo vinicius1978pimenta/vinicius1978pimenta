@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou o Vinicius!</h1>
+<h1 align="center">Olá 👋, eu sou o Vinicius Pimenta!</h1>
 <h3 align="center">Desenvolvedor backend• Entusiasta de tecnologia • Apaixonado por resolver problemas</h3>
 
 ---
