@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Vinicius Pimenta!</h1>
-<h3 align="center">Desenvolvedor backend• Entusiasta de tecnologia • Apaixonado por resolver problemas</h3>
+<h3 align="center">Desenvolvedor FullStack• Entusiasta de tecnologia • Apaixonado por resolver problemas</h3>
 
 ---
 
