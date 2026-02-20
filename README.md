@@ -47,14 +47,10 @@
 
 ---
 
-## 📊 Estatísticas GitHub
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius1978pimenta&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius1978pimenta&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius1978pimenta&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius1978pimenta&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </div>
-
----
 
 ## 🔥 Streaks
 
