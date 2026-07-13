@@ -1,18 +1,18 @@
-<h1 align="center">Olá 👋, eu sou o Vinicius Pimenta!</h1>
+<h1 align="center">Olá , eu sou o Vinicius Pimenta!</h1>
 <h3 align="center">Desenvolvedor FullStack• Entusiasta de tecnologia • Apaixonado por resolver problemas</h3>
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- 💻 Trabalho e estudo nas áreas de desenvolvimento!
-- 🧠 Sempre aprendendo novas tecnologias e boas práticas
-- ⚡ Curiosidade: Adoro desafios técnicos e transformar ideias em soluções
+-  Formado em **Análise e Desenvolvimento de Sistemas**
+-  Trabalho e estudo nas áreas de desenvolvimento!
+-  Sempre aprendendo novas tecnologias e boas práticas
+-  Curiosidade: Adoro desafios técnicos e transformar ideias em soluções
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 <div align="center">
   
@@ -23,23 +23,23 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
-### 🧠 Back-end:
+###  Back-end:
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-### 🗄️ Banco de Dados:
+###  Banco de Dados:
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-### 🛠️ Outras tecnologias:
+###  Outras tecnologias:
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-### ☁️ Cloud:
+###  Cloud:
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 
